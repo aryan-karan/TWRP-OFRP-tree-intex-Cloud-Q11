@@ -35,25 +35,3 @@ PRODUCT_BRAND := Intex
 PRODUCT_MODEL := Cloud Q11
 PRODUCT_MANUFACTURER := intex
 PRODUCT_RELEASE_NAME := Intex Cloud Q11
-
-
-
-
-#TARGET_PROVIDES_INIT_RC := true
-
-#PRODUCT_COPY_FILES += \
-#    device/MTK/6580/recovery/root/factory_init.project.rc:root/factory_init.project.rc \
-#    device/MTK/6580/recovery/root/factory_init.rc:root/factory_init.rc \
-#    device/MTK/6580/recovery/root/fstab.goldfish:root/fstab.goldfish \
-#    device/MTK/6580/recovery/root/init:root/init \
-#    device/MTK/6580/recovery/root/init.recovery.hlthchrg.rc:root/init.recovery.hlthchrg.rc \
-#    device/MTK/6580/recovery/root/init.recovery.mt6580.rc:root/init.recovery.mt6580.rc \
-#    device/MTK/6580/recovery/root/init.aee.rc:root/init.aee.rc \
-#    device/MTK/6580/recovery/root/init.recovery.service.rc:root/init.recovery.service.rc \
-#    device/MTK/6580/recovery/root/init.recovery.usb.rc:root/init.recovery.usb.rc \
-#    device/MTK/6580/recovery/root/meta_init.modem.rc:root/meta_init.modem.rc \
-#    device/MTK/6580/recovery/root/meta_init.project.rc:root/meta_init.project.rc \
-#    device/MTK/6580/recovery/root/ueventd.rc:root/ueventd.rc \
-#    device/MTK/6580/recovery/root/fstab.mt6580:root/fstab.mt6580 \
-#    device/MTK/6580/recovery/root/ueventd.mt6580.rc:root/ueventd.mt6580.rc \
-#    device/MTK/6580/recovery/root/meta_init.rc:root/meta_init.rc \
