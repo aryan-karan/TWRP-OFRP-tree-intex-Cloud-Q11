@@ -1,1 +1,1 @@
-# Initial TWRP Device-tree-for-intex-cloud-Q11
+# Initial TWRP Device-tree-for-intex-Cloud-Q11
