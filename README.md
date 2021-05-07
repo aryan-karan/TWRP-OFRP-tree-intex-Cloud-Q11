@@ -1,1 +1,1 @@
-# Initial OrangeFox Device-tree-for-intex-Cloud-Q11
+#  TWRP Device-tree-for-intex-Cloud-Q11
