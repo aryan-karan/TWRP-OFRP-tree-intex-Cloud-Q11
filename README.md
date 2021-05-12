@@ -14,3 +14,6 @@
 
 
 <b> Build Vars</b>  : https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt
+
+
+<b>Clone Command</b> :  git clone https://github.com/aryankaran/TWRP-OFRP-tree-intex-Cloud-Q11.git -b fox_7.1_R10 device/intex/Cloud_Q11
