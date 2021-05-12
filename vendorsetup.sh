@@ -21,6 +21,7 @@ add_lunch_combo omni_Cloud_Q11-userdebug
 
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
+export LC_ALL="C"
 export TARGET_ARCH=arm
 export OF_TARGET_DEVICES="CloudQ11,Cloud_Q11,aryan,Cloud Q11"
 export TARGET_DEVICE_ALT="Cloud Q11"
@@ -34,7 +35,6 @@ export OF_NO_MIUI_OTA_VENDOR_BACKUP=1
 export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 export OF_MAINTAINER="Aryan Karan"
 export FOX_VERSION="R11.1"
-export LC_ALL="C"
 export FOX_USE_NANO_EDITOR=1
 export FOX_USE_BASH_SHELL=1
 export FOX_USE_TAR_BINARY=1
