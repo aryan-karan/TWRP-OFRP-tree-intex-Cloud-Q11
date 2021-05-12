@@ -4,4 +4,4 @@
 
 <b>Support Telegram</b> :  https://t.me/build_twrp
 
-<b>Clone Command</b> :  git clone https://github.com/aryankaran/TWRP-OFRP-tree-intex-Cloud-Q11.git -b android-6.0 device/intex/Cloud_Q11
+<b>Clone Command</b> :  git clone https://github.com/aryankaran/TWRP-OFRP-tree-intex-Cloud-Q11.git -b twrp-6.0 device/intex/Cloud_Q11
