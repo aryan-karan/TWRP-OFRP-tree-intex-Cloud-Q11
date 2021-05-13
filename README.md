@@ -16,3 +16,21 @@
 
 
 <b>Clone Command</b> :  git clone https://github.com/aryankaran/TWRP-OFRP-tree-intex-Cloud-Q11.git -b fox_9.0_R11.1 device/intex/Cloud_Q11
+
+
+
+modification to fix progress error
+
+change 
+
+https://gitlab.com/OrangeFox/bootable/Recovery/-/blob/fox_9.0/progresstracking.cpp
+
+to 
+
+https://github.com/omnirom/android_bootable_recovery/blob/android-6.0/progresstracking.cpp
+
+from
+
+#ifndef BUILD_TWRPTAR_MAIN
+
+to end
