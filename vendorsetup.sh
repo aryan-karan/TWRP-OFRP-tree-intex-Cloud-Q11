@@ -70,8 +70,8 @@ export FOX_RECOVERY_INSTALL_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.m
 export FOX_RECOVERY_SYSTEM_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/system"
 export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/vendor"
 
-export FOX_DISABLE_APP_MANAGER=1
-export OF_FLASHLIGHT_ENABLE=0
+#export FOX_DISABLE_APP_MANAGER=1
+export OF_FLASHLIGHT_ENABLE=1
 
 # Magisk 23.0
 export FOX_USE_SPECIFIC_MAGISK_ZIP="device/intex/Cloud_Q11/Magisk/Magisk-v23.0.zip"
