@@ -3,6 +3,8 @@
 
 <b> Manifest Link</b>  :  https://gitlab.com/OrangeFox/Manifest.git
 
+<b>Recovery gitlab link</b>  :   https://gitlab.com/OrangeFox/bootable/Recovery/-/tree/fox_9.0
+
 
 <b> Build Guide</b>  : https://wiki.orangefox.tech/en/dev/building
 
