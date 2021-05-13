@@ -65,4 +65,4 @@ export FOX_DEVICE_MODEL="Cloud_Q11_Aryan"
 
 export FOX_ENABLE_LAB=1
 export TWRP_INCLUDE_LOGCAT=true
-export TW_INCLUDE_FB2PNG=true
+#export TW_INCLUDE_FB2PNG=true
