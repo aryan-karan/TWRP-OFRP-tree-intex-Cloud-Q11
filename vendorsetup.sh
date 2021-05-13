@@ -69,3 +69,6 @@ export FOX_ENABLE_LAB=1
 export FOX_RECOVERY_INSTALL_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/recovery"
 export FOX_RECOVERY_SYSTEM_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/system"
 export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/vendor"
+
+export FOX_DISABLE_APP_MANAGER=1
+export OF_FLASHLIGHT_ENABLE=0
