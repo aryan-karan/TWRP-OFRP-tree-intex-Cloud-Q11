@@ -28,11 +28,16 @@ export TARGET_DEVICE_ALT="Cloud Q11"
 export OF_DEVICE_WITHOUT_PERSIST=1
 export OF_USE_MAGISKBOOT_FOR_ALL_PATCHES=1
 export OF_QUICK_BACKUP_LIST="/data;/boot;/system"
+
+# Miui Specific
+
+#export OF_TWRP_COMPATIBILITY_MODE=1 #As it is include in (OF_DISABLE_MIUI_SPECIFIC_FEATURES=1)
 export OF_USE_TWRP_SAR_DETECT=1
-export OF_SUPPORT_ALL_BLOCK_OTA_UPDATES=0
-export OF_TWRP_COMPATIBILITY_MODE=1
+export OF_DISABLE_MIUI_SPECIFIC_FEATURES=1
 export OF_NO_MIUI_OTA_VENDOR_BACKUP=1
 export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
+
+
 export OF_MAINTAINER="Aryan Karan"
 export FOX_VERSION="R11.1"
 export FOX_USE_NANO_EDITOR=1
@@ -46,3 +51,18 @@ export FOX_REPLACE_TOOLBOX_GETPROP=1
 #export OF_PATCH_AVB20=1
 #torch OF_FL_PATH1 & OF_FL_PATH2
 #export OF_FL_PATH1="/sys/class/flashlightdrv/dev"
+
+# Officialised It
+export FOX_BUILD_TYPE="Official_Aryan_Karan"
+
+# Extras
+
+export OF_RUN_POST_FORMAT_PROCESS=1
+
+export FOX_DEVICE_MODEL="Cloud_Q11_Aryan"
+
+#export OF_SCREEN_H=1280  # Defined Screen resolution
+
+export FOX_ENABLE_LAB=1
+export TWRP_INCLUDE_LOGCAT=true
+export TW_INCLUDE_FB2PNG=true
