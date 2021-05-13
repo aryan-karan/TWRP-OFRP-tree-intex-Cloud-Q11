@@ -29,7 +29,8 @@ export OF_DEVICE_WITHOUT_PERSIST=1
 export OF_USE_MAGISKBOOT_FOR_ALL_PATCHES=1
 export OF_QUICK_BACKUP_LIST="/data;/boot;/system"
 
-# Miui Specific
+
+# Miui Specific featurres disabled
 
 #export OF_TWRP_COMPATIBILITY_MODE=1 #As it is include in (OF_DISABLE_MIUI_SPECIFIC_FEATURES=1)
 export OF_USE_TWRP_SAR_DETECT=1
@@ -56,7 +57,6 @@ export FOX_REPLACE_TOOLBOX_GETPROP=1
 export FOX_BUILD_TYPE="Official_Aryan_Karan"
 
 # Extras
-
 export OF_RUN_POST_FORMAT_PROCESS=1
 
 export FOX_DEVICE_MODEL="Cloud_Q11_Aryan"
