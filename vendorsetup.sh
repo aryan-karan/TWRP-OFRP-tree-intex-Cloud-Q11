@@ -63,7 +63,7 @@ export FOX_DEVICE_MODEL="Intex Cloud Q11"
 
 #export OF_SCREEN_H=1280  # Defined Screen resolution ri8 now ommited
 
-export FOX_ENABLE_LAB=1
+#export FOX_ENABLE_LAB=1
 
 # Partition Info
 export FOX_RECOVERY_INSTALL_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/recovery"
