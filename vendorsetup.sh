@@ -54,13 +54,18 @@ export FOX_REPLACE_TOOLBOX_GETPROP=1
 #export OF_FL_PATH1="/sys/class/flashlightdrv/dev"
 
 # Officialised It
-export FOX_BUILD_TYPE="Official_Aryan_Karan"
+export FOX_BUILD_TYPE="Official"
 
 # Extras
 export OF_RUN_POST_FORMAT_PROCESS=1
 
-export FOX_DEVICE_MODEL="Cloud_Q11_Aryan"
+export FOX_DEVICE_MODEL="Aryan_Cloud_Q11"
 
 #export OF_SCREEN_H=1280  # Defined Screen resolution
 
 export FOX_ENABLE_LAB=1
+
+# Partition Info
+export FOX_RECOVERY_INSTALL_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/recovery"
+export FOX_RECOVERY_SYSTEM_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/system"
+export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/vendor"
