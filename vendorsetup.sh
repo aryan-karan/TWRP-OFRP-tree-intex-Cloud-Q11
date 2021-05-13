@@ -61,7 +61,7 @@ export OF_RUN_POST_FORMAT_PROCESS=1
 
 export FOX_DEVICE_MODEL="Intex Cloud Q11"
 
-#export OF_SCREEN_H=1280  # Defined Screen resolution
+#export OF_SCREEN_H=1280  # Defined Screen resolution ri8 now ommited
 
 export FOX_ENABLE_LAB=1
 
