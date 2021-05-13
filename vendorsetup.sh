@@ -74,4 +74,4 @@ export FOX_DISABLE_APP_MANAGER=1
 export OF_FLASHLIGHT_ENABLE=0
 
 # Magisk 23.0
-export FOX_USE_SPECIFIC_MAGISK_ZIP="$(DEVICE_PATH)/Magisk/Magisk-v23.0.zip"
+export FOX_USE_SPECIFIC_MAGISK_ZIP="device/intex/Cloud_Q11/Magisk/Magisk-v23.0.zip"
