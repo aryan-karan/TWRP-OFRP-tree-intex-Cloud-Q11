@@ -31,6 +31,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := Cloud_Q11
 PRODUCT_NAME := omni_Cloud_Q11
+TARGET_PRODUCT := omni_Cloud_Q11_Aryan
 PRODUCT_BRAND := Intex
 PRODUCT_MODEL := Cloud Q11
 PRODUCT_MANUFACTURER := intex
