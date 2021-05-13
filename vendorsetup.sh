@@ -75,3 +75,4 @@ export OF_FLASHLIGHT_ENABLE=1
 
 # Magisk 23.0
 export FOX_USE_SPECIFIC_MAGISK_ZIP="device/intex/Cloud_Q11/Magisk/Magisk-v23.0.zip"
+export FOX_REMOVE_AAPT=1
