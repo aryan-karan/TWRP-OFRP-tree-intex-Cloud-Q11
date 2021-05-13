@@ -63,4 +63,4 @@ export FOX_DEVICE_MODEL="Cloud_Q11_Aryan"
 
 #export OF_SCREEN_H=1280  # Defined Screen resolution
 
-#export FOX_ENABLE_LAB=1
+export FOX_ENABLE_LAB=1
