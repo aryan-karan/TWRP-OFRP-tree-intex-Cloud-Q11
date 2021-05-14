@@ -50,7 +50,7 @@ deploy:
   api_key: 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
   file_glob: true
   file: $HOME/twrp/*.img
-  on:
+  on: b
     tags: false
     repo: $$USERNAME$$/$$REPO_URL$$ # Optional: If you want to deploy on different repository
     branch: master # Optional: Needs to be exact as the config branch
