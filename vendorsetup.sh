@@ -54,7 +54,7 @@ export FOX_REPLACE_TOOLBOX_GETPROP=1
 #export OF_FL_PATH1="/sys/class/flashlightdrv/dev"
 
 # Officialised It
-export FOX_BUILD_TYPE="Official"
+export FOX_BUILD_TYPE="Stable"
 
 # Extras
 export OF_RUN_POST_FORMAT_PROCESS=1
